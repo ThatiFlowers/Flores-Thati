@@ -1,3 +1,2 @@
 # Flores-Thati
-<picture>
-theme Black
+<picture> theme Black
